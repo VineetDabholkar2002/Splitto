@@ -1,0 +1,12 @@
+# Node.js
+/frontend/node_modules
+/frontend/build
+
+# .NET
+/backend/bin
+/backend/obj
+
+# Environment variables
+*.env
+*.json
+
